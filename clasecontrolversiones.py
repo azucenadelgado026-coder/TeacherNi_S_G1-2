@@ -1,1 +1,1 @@
-print("calculadora de Oscar Roque")
+print("calculadora de Alany Vásquez")
